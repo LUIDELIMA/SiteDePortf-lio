@@ -30,7 +30,7 @@ Recursos CSS presentes no projeto:
 - Tratamento de campos inválidos no formulário
 
 <h2 id="challenges">🏆 Desafio</h2>
-Criar um site de portfólio usando ferramentas indicada no curso e aplicando todos os recursos e conhecimentos adquirido no mesmo referente HTML5 e CSS3.
+Criar um site de portfólio usando ferramentas indicada no curso, e aplicando todos os recursos e conhecimentos adquirido no mesmo referente HTML5 e CSS3.
 <h2 id="Aluno">💻 Aluno</h2>
 <p>
     <img align=left margin=10 width=80 src="assets/midia/LuideLima.jpeg"/>
