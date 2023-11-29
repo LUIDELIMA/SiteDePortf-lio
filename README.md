@@ -11,7 +11,6 @@
 </p>
 
 <a href="">
-  <img src="">
   <img src="assets/midia/site de portfólio.png">
 </a>
 <h2 id="topics">📦 Temas abordados</h2>
